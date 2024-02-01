@@ -1,6 +1,6 @@
 # (To-do list)
 
-This is a [To-do list](project link). 
+This is a [To-do list](https://leandro-pixel.github.io/To_do_list/). 
 
 ## Table of contents
 
